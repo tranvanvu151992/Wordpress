@@ -1,0 +1,126 @@
+<?php
+/*
+Template Name:Home Page2
+*/
+?>
+<?php
+get_header(); ?>
+<html>
+<head>
+<link href="<?php bloginfo('template_url'); ?>/dashbord.css" rel="stylesheet">
+</head>	
+<div class="grid grid-pad">
+    <aside id="sidebar" class="column-left col-2-12">
+        <?php 
+             if (function_exists('dynamic_sidebar') && dynamic_sidebar('sidebar-home-left')):
+             endif;
+        ?>
+	</aside>
+	<div class="col-8-12">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">
+            <?php while ( have_posts() ) : the_post(); ?>
+                <?php get_template_part( 'content', 'page' ); ?>
+                    <?php
+                        // If comments are open or we have at least one comment, load up the comment template
+//                        if ( comments_open() || get_comments_number() ) :
+//                            comments_template();
+//                        endif;
+                    ?>
+                <?php endwhile; // end of the loop. ?>
+                <h3 style="margin-left:5px;">Premium Members</h3>
+                <?php
+                global $wpdb;
+                
+                $sql= 'SELECT  member_id, user_name, country,profile_image FROM wp_wp_eMember_members_tbl ORDER BY RAND()
+                LIMIT 6';
+                $result   =   mysql_query($sql);
+                 while($row = mysql_fetch_array($result))
+                {
+                echo'<div id="container-3">';
+                echo'<div id="box-3-3" class="box">';
+                echo '<img src="http://www.teachers-cafe.com/wp-content/uploads/emember/'.$row["profile_image"].'" width="100px;"/>';
+                echo'</div>';
+                echo'<div id="box-3-2" class="box">';
+                
+                echo '' . $row['user_name'] .'';
+                echo '</div>';
+                echo'<div id="box-3-4" class="box">';
+                echo '' . $row['country'] .'';
+                echo '</div>';
+                echo'<div id="box-3-6" class="box">';
+                echo "<a style='color:red'; href='http://www.teachers-cafe.com/edit?member_id=".$row['member_id']."'>View Details</a>";
+                echo '</div>';
+                echo '</div>';
+                }
+                ?>
+            </main><!-- #main -->
+        </div><!-- #primary -->
+	</div>
+    <?php get_sidebar(); ?>
+    <div id="quicksearch">
+        <form method="get" id="advanced-searchform" role="search" action="http://www.teachers-cafe.com/">
+            <p class="quick">Quick Search</p>
+            <!-- PASSING THIS TO TRIGGER THE ADVANCED SEARCH RESULT PAGE FROM functions.php -->
+            <input type="hidden" name="search" value="advanced">
+            <table width="100%" border="1">
+              <tr>
+                <td width="14%">Country</td>
+                <td width="14%">Author</td>
+                <td width="14%">Educational Content</td>
+                <td width="14%">Subject</td>
+                <td width="14%">Grade</td>
+                <td width="14%">Lesson Title</td>
+                <td width="14%">Special Needs (Disability)</td>
+              </tr>
+              <tr>
+                <td><form id="form1" name="form1" method="post" action="">
+                  <label for="Country"></label>
+                  <select name="Country" id="Country"  style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+                <td><form id="form2" name="form2" method="post" action="">
+                  <label for="Author"></label>
+                  <select name="Author" id="Author"  style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+                <td><form id="form3" name="form3" method="post" action="">
+                  <label for="Education"></label>
+                  <select name="Education" id="Education"  style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+                <td><form id="form4" name="form4" method="post" action="">
+                  <label for="subject"></label>
+                  <select name="subject" id="subject"  style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+                <td><form id="form5" name="form5" method="post" action="">
+                  <label for="Grade"></label>
+                  <select name="Grade" id="Grade"  style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+                <td><form id="form6" name="form6" method="post" action="">
+                  <label for="Lesson"></label>
+                  <select name="Lesson" id="Lesson"  style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+                <td><form id="form7" name="form7" method="post" action="">
+                  <label for="Special"></label>
+                  <select name="Special" id="Special" style="width:121px;">
+                  <option value="">Select...</option>
+                  </select>
+                </form></td>
+              </tr>
+            </table>
+        <input type="submit" id="searchsubmit" value="Filter Results" class="btn" style="background-color:#83c124;color:white;width:180px; height:36px; float:right;margin-right:30px;" />
+        </form>
+    </div>
+</div>
+</html>
+<?php get_footer(); ?>

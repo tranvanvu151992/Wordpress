@@ -1,0 +1,98 @@
+.box {text-align: left; padding-top:10px; margin:1%}
+
+#container-3 {width:30%;float:left;}
+#box-3-2 {outline: 0px solid olive; float: right; width: 51%; height: 20px;}
+#box-3-3 {outline: 1px solid lightgrey; float: left; width: 39%; height: 100px; margin-bottom:10px;}
+#box-3-4 {outline: 0px solid maroon; float: right; width: 51%; height: 20px;}
+#box-3-5 {outline: 0px solid maroon; float: right; width: 51%; height: 20px;}
+#box-3-6 {outline: 0px solid maroon; float: right; width: 51%; height: 20px;}
+
+
+
+
+
+
+
+#profile{margin-top:10px; background-color:red;}
+
+#acontent {
+  float: left;
+  width: 50px;
+  height:50px;
+  background-color: #transparent;
+  text-align: left;
+}
+#asidebar {
+  float: right;
+  width: 200px;
+
+  margin-right: -135px;
+  margin-top:0px;
+  background-color:#transparent;
+}
+
+ ul{
+        padding: 0;
+        list-style: none;
+        background: #fff;
+    }
+    ul1 li{
+        display: inline-block;
+        position: relative;
+        line-height: 21px;
+        text-align: left;
+    }
+    ul li a{
+        display: block;
+        padding: 8px 25px;
+        color: #333;
+        text-decoration: none;
+    }
+    ul li a:hover{
+        color: #fff;
+        background: #transparent;
+    }
+    ul li ul.dropdown{
+        min-width: 125px; /* Set width of the dropdown */
+        background: #fff;
+        display: none;
+        position: absolute;
+        z-index: 999;
+        left: 0;
+    }
+    ul li:hover ul.dropdown{
+        display: block;	/* Display the dropdown */
+    }
+    ul li ul.dropdown li{
+        display: block;
+    }
+
+
+
+
+#thumb {
+clear : both;
+width : 100%;
+margin-left : 0;
+}
+#thumb ul {
+width : 100%;
+}
+#thumb ul li {
+display : inline;
+font-family : arial;
+float : left;
+padding-right : 5px;
+width: 200px; 
+height : 200px;
+}
+#thumb ul li img {
+float : left;
+width : 150px;
+height : 150px;
+border : #ccc solid 1px;
+padding : 2px;
+}
+
+
+

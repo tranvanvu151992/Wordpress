@@ -1,0 +1,276 @@
+.my-repeated-section {
+
+    display: block;
+
+    min-height: 2em;
+
+    float: left;
+
+    clear: both;
+
+    margin-bottom: 10px;
+
+}
+
+span.label_edit {
+  
+   background-image: url(../images/icon-arrow-down-b-256.png);
+       background-repeat: no-repeat;
+    background-position: 50%;
+}
+.amount.price_label {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.my-repeated-section input{
+
+    float: left;
+
+}
+
+.my-repeated-section span{
+
+    float: left;
+
+}
+#right-sidebar .widget select{
+    direction: ltr;
+    padding: 5px;
+    width: 100%;
+}
+#slide-27-layer-4{
+    background-color: #fff4f4;
+}
+#slide-27-layer-5{
+    background-color: #83c124;
+}
+.home .column-3 .page-entry-content{
+
+    background:#f8f8f8;
+
+}
+
+.about-home{
+
+background: #fff;
+
+ padding: 15px;
+
+}
+
+.home .entry-footer{display: none;}
+
+#s{
+
+    line-height: 25px;
+
+    padding-top: 4px;
+
+    padding-bottom: 3px;
+
+    border: 0px;
+
+    padding-left: 10px;
+
+}
+
+#searchsubmit{color:#fff;}
+
+#pippin_password_form{
+
+    max-width: 350px;
+
+    width: 100%;
+
+    margin: 0 auto;
+
+}
+
+.search2{
+
+    padding-top: 10px;
+
+}
+
+.home #quicksearchs{width: 100%;margin-top: 15px;}
+
+#searchsubmit{    background: #83c124;
+
+    box-shadow: none;
+
+    text-shadow: none;
+
+    border-radius: 0;
+
+    border: 0;
+
+    padding-top: 6px;
+
+    font-size: 18px;}
+
+.pricect{display: block !important;}
+
+#quicksearch .products li{width: 23%;position: relative;float: left;list-style: none;border: 1px solid #ddd;padding-left: 10px;padding-right: 10px; }
+
+#quicksearch .products li .author-title{top: 0px;}
+
+#quicksearch .products li .add_to_cart_button {background: #dad8da;
+
+    padding: 10px;
+
+    line-height: 47px;
+
+    padding-left: 20px;
+
+    color: black;
+
+    padding-right: 20px;}
+
+    #quicksearch .products li:nth-child(5n) {
+
+        clear: left;
+
+    }
+
+    #quicksearch .products li {
+
+        margin: 0 1% 20px;
+
+
+
+    }
+
+    #quicksearch .products{margin-left: 0px;width: 100%;}
+
+    .quantity{display: none !important;}
+
+    .site-footer{clear: both;}
+
+    .page-entry-content{border: none;}
+
+    .my-repeated-section a{
+
+        text-decoration: none;
+
+        border: 1px solid #ccc;
+
+        background-color: #369;
+
+        color: #fff;
+
+        display: block;
+
+        float: left;
+
+        width: 20px;
+
+        text-align: center;
+
+    }
+
+    .dokan-order-id a{color: black}
+
+    #pippin_password_submit{    background: #84c125;box-shadow: none;color: white;display: block;margin: 0 auto;    font-size: 16px;
+
+        margin-left: 125px;}
+
+/*#pippin_password_form label{float: left;}
+
+*/#pippin_user_pass,#pippin_user_pass_confirm{width: 65%;margin: 0 auto;float: right;}
+
+#upload-product input[type="submit"] {
+
+    clear: both;
+
+    float: left;
+
+}
+
+.woocommerce_variable_attributes.wc-metabox-content{max-width: 90%;}
+
+/*.dokan-dashboard .dokan-dashboard-content{width: 100%;}
+
+*/input[type="submit"].dokan-btn-theme, a.dokan-btn-theme, .dokan-btn-theme{
+
+    background: #84c125;
+
+    border: 0;
+
+    box-shadow: none;
+
+    padding-top: 5px;
+
+    padding-bottom: 5px;
+
+}
+
+input[type="submit"].dokan-btn-theme:hover, input[type="submit"].dokan-btn-theme:focus{
+
+    background: #84c125 !important;
+
+}
+
+.product_meta .edu{
+
+    margin-bottom: 5px;
+
+}
+
+.single-product .product_meta .sku_wrapper{
+
+    display: none;
+
+}
+
+.dokan-attribute-options-table thead tr th{border-bottom: 0px;}
+
+.page-id-36881 .dokan-side-right{padding-left: 0px !important;}
+
+.single-product  .variations td.label{display: none;}
+
+.value .radio-ct{
+
+    width: 50%;
+
+    display: inline-block;
+
+}
+
+.content-half-part.regular-price{padding-left: 0px;}
+
+.product-type-variable .price{
+
+    display: none;
+
+}
+
+.content-half-part.featured-image{width: 30%;}
+
+.content-half-part{width: 70%;}
+
+.product-type-variable .single_variation_wrap .price{
+
+    display: block;
+
+}
+
+ #quicksearch{min-width: auto !important;}
+
+@media screen and (max-width: 640px){
+
+    #quicksearch .products {padding-left: 0px;}
+
+    #quicksearch .products li {width: 47%;margin-left: 0px;
+
+}
+
+}
+
+@media screen and (max-width: 480px){
+
+    #quicksearch .products li {width: 100%;
+
+}
+
+}

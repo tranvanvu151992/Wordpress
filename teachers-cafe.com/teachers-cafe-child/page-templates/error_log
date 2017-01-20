@@ -1,0 +1,1080 @@
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:10:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-editproduct.php on line 5
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-homepage.php on line 9
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:04 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-myprofile.php on line 9
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-page-rightsidebar.php on line 5
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:09 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-register.php on line 9
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:12 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-store-author.php on line 5
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[20-Jun-2016 09:11:13 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-uploadproduct.php on line 5
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-editproduct.php on line 5
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-homepage.php on line 9
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:39 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-myprofile.php on line 9
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:40 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-page-rightsidebar.php on line 5
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-register.php on line 9
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:43 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-store-author.php on line 5
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[24-Jun-2016 13:18:45 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-uploadproduct.php on line 5
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-editproduct.php on line 5
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-homepage.php on line 9
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-myprofile.php on line 9
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:32 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-page-rightsidebar.php on line 5
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:33 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-register.php on line 9
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-store-author.php on line 5
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[13-Jul-2016 11:29:36 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-uploadproduct.php on line 5
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:04 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-editproduct.php on line 5
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:06 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-homepage.php on line 9
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-myprofile.php on line 9
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:10 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-page-rightsidebar.php on line 5
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:15 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-register.php on line 9
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-store-author.php on line 5
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[28-Jul-2016 03:21:18 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-uploadproduct.php on line 5
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:11 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-editproduct.php on line 5
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:12 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-homepage.php on line 9
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-myprofile.php on line 9
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-page-rightsidebar.php on line 9
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:17 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-register.php on line 9
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:19 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-store-author.php on line 9
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[07-Oct-2016 03:59:20 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-uploadproduct.php on line 5
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-editproduct.php on line 5
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:05 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-homepage.php on line 9
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:15 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-myprofile.php on line 9
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:20 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-page-rightsidebar.php on line 9
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-register.php on line 9
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-store-author.php on line 9
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Dec-2016 01:27:47 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-uploadproduct.php on line 5
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:51 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-copyright.php on line 5
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 19:59:57 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-privacy-policy.php on line 5
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: eAccelerator: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: undefined symbol: output_globals in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/sqlite.so: undefined symbol: zval_property_ctor in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[02-Jan-2017 20:00:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/teacherscafe/public_html/wp-content/themes/teachers-cafe-child/page-templates/template-terms-of-service.php on line 5
