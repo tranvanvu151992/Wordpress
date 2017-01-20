@@ -35,44 +35,6 @@
             </div>
         </div>
     </div>
-    <style type="text/css">
-        .single-tribe_events #content{
-            width: 100% !important;
-        }
-        .event-single-sidebar .event-sidebar-content img{
-            vertical-align: middle;
-            margin-right: 5px;
-        }
-        .event-single-content {
-            width: 60%;
-            float: left;
-        }
-        .event-single-sidebar {
-            width: 40%;
-            float: left;
-            margin-top: 40px;
-            padding-left: 40px;
-            box-sizing: border-box;
-        }
-        .event-sidebar-content{
-            width: 100%;
-            float: left;
-            border-bottom: 1px solid #cdcdcd;
-            padding-bottom: 20px;
-            margin-bottom: 20px;
-        }
-        .event-sidebar-content:last-child{
-            border-bottom: none;
-        }
-        .event-sidebar-content-img{
-            float: left;
-            width: 72px;
-        }
-        .event-sidebar-content-text{
-            margin-left: 72px;
-            width: calc(100% - 72px);
-        }
-    </style>
 <?php get_footer();
 
 // Omit closing PHP tag to avoid "Headers already sent" issues.
