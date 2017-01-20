@@ -7,3 +7,179 @@ Template: Avada
 Version: 1.0.0
 Text Domain:  Avada
 */
+body .fusion-header-v6 .fusion-flyout-menu{
+	display: block;
+	padding: 0 45px 25px;
+}
+.fusion-flyout-menu-active .fusion-row{
+	width: 100%;
+	max-width: 100% !important;
+}
+.fusion-flyout-menu-active .fusion-header-v6-content .fusion-logo a{
+	display: none;
+}
+.menu_Pri{
+	display: none;
+}
+.fusion-flyout-menu-active .menu_Pri{
+	z-index: 999999;
+	display: block;
+	padding: 0px 15px 0px !important;
+	font-size: 16px;
+}
+.menu_Pri a{
+	text-decoration: underline;
+	color: #fff;
+}
+.fusion-flyout-menu-toggle{
+	padding-right: 50px !important;
+}
+.fusion-flyout-menu-active .fusion-main-menu{
+	margin-top: 145px !important;
+}
+.fusion-flyout-menu-toggle span i{
+	color: #000;
+	font-size: 8px;
+	position: relative;
+	top: -3px;
+}
+.fusion-main-menu li.widget_nav_menu{
+	width: 20%;
+	color: #fff;
+	list-style: none;
+}
+.fusion-main-menu li.widget_nav_menu ul li{
+	width: 100%;
+	float: none;
+}
+.fusion-main-menu li.widget_nav_menu ul li a{
+	color: #fff;
+	padding: 10px 0px;
+	font-size: 16px;
+}
+
+.fusion-flyout-menu-active .fusion-flyout-search-toggle{
+	display: none !important;
+}
+.search-menu-up form input{
+	background: transparent !important;
+	border: 0px !important;
+	font-size: 16px !important;
+	padding: 20px 0px 25px !important;
+	border-bottom: 1px dashed #d2d2d2!important;
+}
+.search-menu-up form .searchsubmit{
+	line-height: normal !important;
+	font-size: 19px !important;
+	line-height: 0px !important;
+}
+.menulv1 a {
+	color: #767674 !important;
+	text-transform: uppercase;
+}
+.fusion-flyout-menu-toggle span{
+	color: #000;
+	display: block;
+	margin-top: -2px;
+	width: 100px;
+}
+.fusion-flyout-menu-active .fusion-flyout-menu-toggle span{
+	display: none;
+}
+.search-menu-up form input:focus{
+	outline-offset: 0px !important;
+	outline:0px !important;
+}
+.search-menu-up{
+	float: left;
+	width: 100%;
+	margin-top: 12%;
+}
+.fusion-flyout-menu .widget_nav_menu h2.widgettitle {
+	color: #767674 !important;
+	text-transform: uppercase;
+	display: none;
+	font-weight: normal;
+	font-size: 16px !important;
+}
+@media screen and (min-width: 2041px){
+	.fusion-flyout-menu-active .menu_Pri {
+		position: relative;
+		top: -120px;
+
+	}
+	.fusion-flyout-menu-toggle span i{
+		top: 0px;
+	}
+	.fusion-flyout-menu-toggle span {
+		width: 150px;
+		margin-top: 0px;
+	}
+	.fusion-flyout-menu-active .fusion-flyout-menu-toggle {
+		position: relative;
+		margin-top: 125px;
+	}
+	.fusion-flyout-menu-toggle{
+		padding-right: 100px !important;
+	}
+}
+@media screen and (max-width: 2040px){
+	.fusion-flyout-menu-active .menu_Pri{
+		position: fixed;
+		top: 10%;
+	}
+	.fusion-flyout-menu-active .fusion-flyout-menu-toggle{
+		position: fixed;
+		top: 25%;
+		right: 0;
+	}
+}
+@media screen and (max-width: 767px){
+	.fusion-flyout-menu-active .fusion-flyout-menu-toggle{
+		position: fixed;
+		top: 10%;
+		right: 0;
+	}
+	.fusion-main-menu li.widget_nav_menu{
+		width: 50%;
+	}
+	.fusion-main-menu li.widget_nav_menu:nth-of-type(3){
+		clear: both;
+	}
+	body .fusion-flyout-menu-active .fusion-main-menu{
+		margin-top: 100px !important;
+	}
+	.fusion-main-menu li.widget_nav_menu ul li a{
+		padding:5px 0px;
+	}
+	.fusion-flyout-menu-active .menu_Pri{
+		padding: 0px !important;
+	}
+	.fusion-header{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	body .fusion-header-v6 .fusion-flyout-menu {
+		display: block;
+		padding: 0 25px 25px;
+	}
+	.fusion-flyout-menu-active .fusion-flyout-menu-toggle{
+		padding-right: 25px !important;
+	}
+}
+@media screen and (max-width: 480px){
+	.fusion-main-menu li.widget_nav_menu ul li a{
+		font-size: 14px;
+	}
+	.fusion-flyout-menu .widget_nav_menu h2.widgettitle {
+		font-size: 14px !important;
+	}
+}
+@media screen and (max-width: 360px){
+	.fusion-main-menu li.widget_nav_menu ul li a{
+		font-size: 13px;
+	}
+	.fusion-flyout-menu .widget_nav_menu h2.widgettitle {
+		font-size: 13px !important;
+	}
+}
