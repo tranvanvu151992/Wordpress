@@ -1,0 +1,117 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+@font-face {
+    font-family: 'ProximaNovaS-Light';
+    src: url('fonts/ProximaNovaS-Light.eot');
+    src: url('fonts/ProximaNovaS-Light.woff2') format('woff2'),
+    url('fonts/ProximaNovaS-Light.woff') format('woff'),
+    url('fonts/ProximaNovaS-Light.ttf') format('truetype'),
+    url('fonts/ProximaNovaS-Light.svg#ProximaNovaS-Light') format('svg'),
+    url('fonts/ProximaNovaS-Light.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    src: url('fonts/ProximaNova-Bold.eot');
+    src: url('fonts/ProximaNova-Bold.woff2') format('woff2'),
+    url('fonts/ProximaNova-Bold.woff') format('woff'),
+    url('fonts/ProximaNova-Bold.ttf') format('truetype'),
+    url('fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg'),
+    url('fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ProximaNovaA-Thin';
+    src: url('fonts/ProximaNovaA-Thin.eot');
+    src: url('fonts/ProximaNovaA-Thin.woff2') format('woff2'),
+    url('fonts/ProximaNovaA-Thin.woff') format('woff'),
+    url('fonts/ProximaNovaA-Thin.ttf') format('truetype'),
+    url('fonts/ProximaNovaA-Thin.svg#ProximaNovaA-Thin') format('svg'),
+    url('fonts/ProximaNovaA-Thin.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+.owl-favorite {
+    position: relative;
+    z-index: 2;
+}
+.owl-favorite .owl-item{
+    float: left;
+    background: #ffffff;
+}
+.owl-favorite .owl-dots{
+    position: relative;
+    top: 20px;
+    z-index: 1;
+}
+.owl-favorite .item-content{
+    clear: both;
+    padding: 0 15px
+}
+.item-content h3{
+        color: #1D344B !important;
+    text-transform: uppercase;
+    font-weight: bold !important;
+}
+.item-content p{
+    font-size: 13px;
+    font-weight: normal;
+}
+.owl-favorite .owl-nav{
+    display: none;
+}
+.events-date {
+    font-family: 'ProximaNova-Bold' !important;
+    font-weight: bold !important;
+    width: 30%;
+    float: left;
+    text-align: center;
+    color: #002d55;
+    text-transform: uppercase;
+}
+.events-date h2 {
+    color: #002d55;
+    font-size: 36px !important;
+    font-family: 'ProximaNova-Bold' !important;
+    font-weight: bold !important;
+    margin-bottom: 0;
+    margin-top: 60px;
+}
+.events-thumbnail {
+    width: 70%;
+    float: right;
+}
+.events-date p span {
+    margin: 0 12px;
+}
+h2.events-title{
+    text-transform: uppercase;
+    color: #002d55 !important;
+    font-family: 'ProximaNova-Bold' !important;
+    font-weight: bold !important;
+}
+.events-read-more{
+    color: #00a0af;
+    font-family: 'ProximaNova-Bold' !important;
+    font-weight: bold !important;
+    text-transform: uppercase;
+}
+.events-time{
+    margin-bottom: 20px;
+}
+.events-time img{
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.events-time p{
+    margin-bottom: 0;
+}
